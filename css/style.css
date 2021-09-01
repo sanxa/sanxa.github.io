@@ -1439,6 +1439,35 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   display: inline-block;
 }
 
+
+.single-product-details .color-swatches .swatch-white {
+  background-color: #FFFFFF;
+}
+
+.single-product-details .color-swatches .swatch-ivory {
+  background-color: #fffff0;
+}
+
+
+.single-product-details .color-swatches .swatch-pergamon {
+  background-color: #E5E0BE;
+}
+
+
+.single-product-details .color-swatches .swatch-whisper-blue {
+  background-color: #C7E8F4;
+}
+
+
+.single-product-details .color-swatches .swatch-whisper-pink {
+  background-color: #F4DCD4;
+}
+
+
+
+
+
+
 .single-product-details .color-swatches .swatch-violet {
   background-color: #8da1cd;
 }
